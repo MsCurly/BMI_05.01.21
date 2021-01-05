@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\bin\Debug\BMI_05.01.21.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\bin\Debug\BMI_05.01.21.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\bin\Debug\BMI_05.01.21.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\obj\Debug\BMI_05.01.21.csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\obj\Debug\BMI_05.01.21.csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\obj\Debug\BMI_05.01.21.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\BMI_05.01.21\BMI_05.01.21\obj\Debug\BMI_05.01.21.pdb
